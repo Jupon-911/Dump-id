@@ -1,2 +1,3 @@
-# Dump-id
-Dump publik or follower 
+# Thanks to
+1. Hamid
+2. Axel
